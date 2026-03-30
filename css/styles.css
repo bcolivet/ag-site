@@ -815,3 +815,56 @@ img {
     font-size: 14px;
   }
 }
+
+
+/* AI Platforms Section */
+.ai-platforms {
+  padding: 3rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.ai-platforms-label {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-light);
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.ai-platforms-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+}
+
+.ai-platform-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ai-platform-icon {
+  width: 20px;
+  height: 20px;
+  opacity: 0.7;
+}
+
+.ai-platform-name {
+  font-family: var(--font-display);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--ink);
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  .ai-platforms-grid {
+    gap: 1.5rem;
+  }
+}
