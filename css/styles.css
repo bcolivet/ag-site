@@ -206,7 +206,7 @@ img {
 }
 
 .nav-logo-mark {
-  height: 28px;
+  height: 36px;
   width: auto;
 }
 
@@ -681,7 +681,7 @@ img {
 }
 
 .footer-logo-mark {
-  height: 24px;
+  height: 32px;
   width: auto;
 }
 
@@ -850,17 +850,17 @@ img {
 }
 
 .ai-platform-icon {
-  width: 20px;
-  height: 20px;
-  opacity: 0.7;
+  width: 28px;
+  height: 28px;
+  opacity: 0.5;
 }
 
 .ai-platform-name {
   font-family: var(--font-display);
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 600;
   color: var(--ink);
-  opacity: 0.7;
+  opacity: 0.5;
 }
 
 @media (max-width: 768px) {
