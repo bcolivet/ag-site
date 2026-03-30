@@ -206,11 +206,8 @@ img {
 }
 
 .nav-logo-mark {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 24px;
-  letter-spacing: -0.03em;
-  color: var(--ink);
+  height: 28px;
+  width: auto;
 }
 
 .nav-logo-text {
@@ -684,11 +681,8 @@ img {
 }
 
 .footer-logo-mark {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: 20px;
-  color: var(--pure-white);
-  letter-spacing: -0.03em;
+  height: 24px;
+  width: auto;
 }
 
 .footer-logo-text {

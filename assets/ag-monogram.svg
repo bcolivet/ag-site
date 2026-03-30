@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+  <!-- AG Monogram - Clean infinity/flywheel feel -->
+  <!-- Dark version on white -->
+  <g transform="translate(120, 120)">
+    <!-- Left loop (A) flowing into right loop (G) -->
+    <path d="
+      M0,-8
+      C-12,-8 -24,-36 -44,-36
+      C-64,-36 -76,-16 -76,4
+      C-76,24 -64,40 -44,40
+      C-28,40 -16,28 -8,16
+      L-8,-16
+      C-8,-16 -8,-24 -16,-24
+      C-24,-24 -28,-16 -28,-16
+      L-28,4
+      C-28,4 -28,16 -20,16
+      C-12,16 -8,8 -4,0
+
+      M0,-8
+      C12,-8 24,-36 44,-36
+      C64,-36 76,-16 76,4
+      C76,24 64,40 44,40
+      C28,40 16,28 8,16
+      L8,4
+      C8,4 12,16 20,16
+      C28,16 36,16 36,4
+      C36,-8 28,-16 20,-16
+      L8,-16
+      C8,-16 8,8 8,8
+    " fill="#0a0a14" stroke="none"/>
+  </g>
+</svg>
